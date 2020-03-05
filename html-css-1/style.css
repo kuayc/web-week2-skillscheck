@@ -69,3 +69,9 @@ h1 {
 img {
   margin-left: 100px;
 }
+li {
+  list-style-type: none;
+  float: right;
+  width: 75px;
+  margin-top: 5px;
+}
