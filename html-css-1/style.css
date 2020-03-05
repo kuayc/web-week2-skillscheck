@@ -20,7 +20,9 @@ h1 {
   color: yellow;
   margin-top: -100px;
   margin-left: 130px;
+  font-family: sans-serif;
 }
+
 .green {
   height: 120px;
   width: 120px;
